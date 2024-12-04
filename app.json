@@ -76,7 +76,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/MISHRAJII123/RADHAQUEEN",
+        "value": "https://github.com/MISHRAJII123/KHUSHI_STAR",
         "required": true
       },
       "UPSTREAM_BRANCH": {
